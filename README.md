@@ -1,2 +1,2 @@
 # ComponenteComprarArticulo
-Ventana modificación de carrito de la compra - Front
+Layout of a Shopping-Cart - Front
